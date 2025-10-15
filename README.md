@@ -19,6 +19,8 @@ To determine the voltage in the circuit using nodal analysis both theoretically 
 In electric circuits analysis, nodal analysis, node-voltage analysis, or the branch current method is a method of determining the voltage (potential difference) between "nodes" (points where elements or branches connect) in an electrical circuit in terms of the branch currents.
 
 **Circuit diagram**
+<img width="1066" height="660" alt="image" src="https://github.com/user-attachments/assets/5db372a4-fddc-4d04-a46f-d68c0afffc2b" />
+
 
 
  
@@ -36,14 +38,23 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+**TABULATION AND CALCULATION:**
+
+<img width="640" height="1280" alt="image" src="https://github.com/user-attachments/assets/da7736b1-df94-4928-a974-e6323d4061f0" />
+<img width="801" height="1069" alt="image" src="https://github.com/user-attachments/assets/8b5c069b-2421-44b7-8ea8-0be68958d745" />
+
+**MARK SPLIT UP:**
+<img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/855fe674-630e-40ca-adad-9aa8908c0978" />
+
+
 **RESULT:**
 
 Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is	V. 0.63V
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is	V. 0.47V
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is	V. 0.16V
 
 
