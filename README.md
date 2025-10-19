@@ -39,10 +39,12 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-**TABULATION AND CALCULATION:**
+**CALCULATION:**
 
-<img width="640" height="1280" alt="image" src="https://github.com/user-attachments/assets/da7736b1-df94-4928-a974-e6323d4061f0" />
-<img width="801" height="1069" alt="image" src="https://github.com/user-attachments/assets/8b5c069b-2421-44b7-8ea8-0be68958d745" />
+![image](https://github.com/dhanushd30032008-wq/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS/blob/e73a4929ec9eae0e94bf9387d11f1f615a50b0c3/ex_3.calci%5B1%5D.pdf)
+**TABULATION:**
+
+
 
 **MARK SPLIT UP:**
 <img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/855fe674-630e-40ca-adad-9aa8908c0978" />
