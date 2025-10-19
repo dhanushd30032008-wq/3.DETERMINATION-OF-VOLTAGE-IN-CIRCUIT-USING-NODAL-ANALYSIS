@@ -41,12 +41,16 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **CALCULATION:**
 
-![image](https://github.com/dhanushd30032008-wq/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS/blob/e73a4929ec9eae0e94bf9387d11f1f615a50b0c3/ex_3.calci%5B1%5D.pdf)
+![image calci3](https://github.com/dhanushd30032008-wq/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS/blob/e73a4929ec9eae0e94bf9387d11f1f615a50b0c3/ex_3.calci%5B1%5D.pdf)
+
 **TABULATION:**
+
+![image tb3]https://github.com/dhanushd30032008-wq/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS/blob/92827834059ae6ccfea0b7b5ccc6876fc5f5ebc2/ex_3.tb%5B1%5D.pdf
 
 
 
 **MARK SPLIT UP:**
+
 <img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/855fe674-630e-40ca-adad-9aa8908c0978" />
 
 
