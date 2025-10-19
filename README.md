@@ -51,7 +51,7 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **MARK SPLIT UP:**
 
-<img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/855fe674-630e-40ca-adad-9aa8908c0978" />
+![image msu3](https://github.com/dhanushd30032008-wq/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS/blob/c1871ebfa0a6c5627b3d3b529d41fa63e85c9141/ex_6.msu%5B1%5D.pdf)
 
 
 **RESULT:**
