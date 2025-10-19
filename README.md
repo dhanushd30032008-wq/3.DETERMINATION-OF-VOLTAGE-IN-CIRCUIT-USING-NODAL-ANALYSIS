@@ -45,7 +45,7 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **TABULATION:**
 
-![image tb3]https://github.com/dhanushd30032008-wq/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS/blob/92827834059ae6ccfea0b7b5ccc6876fc5f5ebc2/ex_3.tb%5B1%5D.pdf
+![image tb3](https://github.com/dhanushd30032008-wq/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS/blob/92827834059ae6ccfea0b7b5ccc6876fc5f5ebc2/ex_3.tb%5B1%5D.pdf)
 
 
 
